@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_gastos">
+        <item>Seleccione Cuenta :</item>
+        <item>Agua</item>
+        <item>Luz</item>
+        <item>Gas</item>
+    </string-array>
+</resources>

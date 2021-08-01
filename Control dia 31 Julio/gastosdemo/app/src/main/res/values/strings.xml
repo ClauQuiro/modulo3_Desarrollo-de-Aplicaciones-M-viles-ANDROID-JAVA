@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">gastosdemo</string>
+    <string name="editmes">Ingrese mes</string>
+    <string name="editvalor">Ingrese valor</string>
+    <string name="editluz">Ingrese luz</string>
+    <string name="editgas">Ingrese gas</string>
+    <string name="btngrabar">Grabar</string>
+    <string name="btnconsultar">Consultar</string>
+    <string name="btncomparar">Comparar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="tvmes">Mes</string>
+    <string name="tvTitulo">Seleccione Cuenta</string>
+    <string name="tvTitulo1">Comparacion Cuentas</string>
+    <string name="tvTitulo2">Seleccione Mes1</string>
+    <string name="tvTitulo3">Seleccione Mes2</string>
+    <string name="btnconsultarC">Consulta</string>
+    <string name="btnResultado">Resultado</string>
+
+
+</resources>
